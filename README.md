@@ -1,1 +1,1 @@
-This our first project in university
+This is our first project in university
